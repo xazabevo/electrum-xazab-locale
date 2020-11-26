@@ -43,7 +43,7 @@ msgstr "%s %s Masternode DIP3 registrati."
 #: electrum_dash/gui/qt/protx_qt.py:967
 #, python-format
 msgid "%s Dip3 Masternode Info"
-msgstr "%s Info Msternode Dip3"
+msgstr "%s Info Masternode Dip3"
 
 #: electrum_dash/gui/qt/protx_qt.py:970
 #, python-format
@@ -1291,7 +1291,7 @@ msgstr "Confermato. Firma della transazione..."
 
 #: electrum_dash/gui/qt/protx_wizards.py:91
 msgid "Connect to registered DIP3 Masternode"
-msgstr "Collegarsi al  Masternode DIP3 registrato"
+msgstr "Collegarsi al Masternode DIP3 registrato"
 
 #: electrum_dash/gui/qt/dash_net_dialog.py:420
 msgid "Connected Peers"
@@ -2048,7 +2048,7 @@ msgstr "Impostazioni e-mail"
 
 #: electrum_dash/gui/qt/dash_net_dialog.py:296
 msgid "Enable Dash Network"
-msgstr "Abilita Network Dash "
+msgstr "Abilita Network Dash"
 
 #: electrum_dash/plugins/keepkey/qt.py:249
 #: electrum_dash/plugins/safe_t/qt.py:123
@@ -4363,7 +4363,7 @@ msgstr "Tipo PS"
 
 #: electrum_dash/gui/qt/address_list.py:378
 msgid "PS Type:"
-msgstr "Tipo PS"
+msgstr "Tipo PS:"
 
 #: electrum_dash/gui/kivy/uix/dialogs/invoices.py:87
 #: electrum_dash/gui/qt/util.py:56
@@ -6415,7 +6415,7 @@ msgstr "Questo tipo di script non è supportato con {}."
 
 #: electrum_dash/plugins/revealer/qt.py:265
 msgid "This version supports a maximum of {} characters."
-msgstr "Questa versione supporta un massimo di {} caratteri"
+msgstr "Questa versione supporta un massimo di {} caratteri."
 
 #: electrum_dash/gui/qt/main_window.py:2784
 #: electrum_dash/plugins/revealer/qt.py:291
